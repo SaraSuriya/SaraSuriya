@@ -1,6 +1,6 @@
 ## Hi there, I'm Sara! 👋
 
-### A driven, ever-evolving Full-Stack Developer, passionate about innovative and one-of-a-kind projects :zap:
+### :zap: A driven, enthusiastic Full-Stack Developer, passionate about innovative and one-of-a-kind projects
 
 🔭 I’m currently working on levelling up my app, Atomize Pro
 
